@@ -1,0 +1,6 @@
+framework module Pods_HackoTravel {
+  umbrella header "Pods-HackoTravel-umbrella.h"
+
+  export *
+  module * { export * }
+}
